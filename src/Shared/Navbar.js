@@ -40,7 +40,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="form-control">
-                    <input type="text" placeholder="Search" className="input input-bordered" />
+                    <input type="text" placeholder="Search" className="input input-bordered w-full max-w-xs" />
                 </div>
                 <div className="flex-none">
                     <button className="btn btn-square btn-ghost">
