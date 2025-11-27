@@ -79,3 +79,34 @@ export const services = [
     ],
   },
 ];
+
+export const portfolio = [
+  {
+    title: "E-commerce Revolution",
+    category: "Digital Marketing",
+    image:
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+    result: "300% ROI Increase",
+  },
+  {
+    title: "Brand Transformation",
+    category: "Branding",
+    image:
+      "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=800&q=80",
+    result: "2M+ Impressions",
+  },
+  {
+    title: "Tech Startup Launch",
+    category: "Web Development",
+    image:
+      "https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&q=80",
+    result: "50K Users in 3 Months",
+  },
+  {
+    title: "Social Media Campaign",
+    category: "Growth Marketing",
+    image:
+      "https://images.unsplash.com/photo-1432888622747-4eb9a8f2c293?w=800&q=80",
+    result: "10M Reach",
+  },
+];
