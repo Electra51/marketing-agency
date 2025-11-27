@@ -6,7 +6,7 @@
   [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=github)](https://adorix-marketing-agency.vercel.app/)
   [![Lighthouse Score](https://img.shields.io/badge/Lighthouse-90%2B-success?style=for-the-badge&logo=lighthouse)](https://electra51.github.io/Adorix-marketing-agency/)
   
-  **MS Academy is a modern and visually appealing online learning platform website where users can explore different courses such as Digital Marketing, Full-Stack Development, UI/UX Design, Motion Graphics, and more.**
+  **A simple, clean and responsive **landing page** for a marketing agency, built with **React.js** and **Tailwind CSS**.**
   
   [Live Demo](https://adorix-marketing-agency.vercel.app/) · [Report Bug](https://github.com/electra51/Adorix-marketing-agency/issues) · [Request Feature](https://github.com/electra51/Adorix-marketing-agency/issues)
 
@@ -19,3 +19,22 @@
 <div align="start">
   <img src="screenshots/hero.png" alt="Home Page Preview" width="800"/>
 </div>
+
+---
+
+## Features
+
+- Built using **React.js** — component-based architecture, easy to maintain and extend.  
+- Styled with **Tailwind CSS** for utility-first, responsive and mobile-friendly design.  
+- Simple and lightweight — works well for marketing/agency landing pages.  
+- Easy to customize: update texts, images, colors, sections as needed. 
+
+---
+
+## Built With
+
+| Technology | Purpose |
+|------------|---------|
+| React.js   | UI and component structure |
+| Tailwind CSS | Styling and responsive design |
+| (Optional) Vercel / GitHub Pages / any static host | Deployment |
