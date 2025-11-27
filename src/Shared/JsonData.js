@@ -110,3 +110,57 @@ export const portfolio = [
     result: "10M Reach",
   },
 ];
+
+export const testimonials = [
+  {
+    name: "Sarah Johnson",
+    role: "CEO, TechVision",
+    image:
+      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80",
+    text: "Markom transformed our digital presence completely. Their strategic approach and execution were flawless.",
+    rating: 5,
+  },
+  {
+    name: "Michael Chen",
+    role: "Founder, StartupHub",
+    image:
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+    text: "The ROI we achieved with Markom exceeded all expectations. Truly a game-changing partnership.",
+    rating: 5,
+  },
+  {
+    name: "Emily Rodriguez",
+    role: "Marketing Director, BrandCo",
+    image:
+      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80",
+    text: "Professional, creative, and results-driven. Markom is the agency every business needs.",
+    rating: 5,
+  },
+];
+
+export const team = [
+  {
+    name: "Alex Thompson",
+    role: "Creative Director",
+    image:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&q=80",
+  },
+  {
+    name: "Jessica Lee",
+    role: "Strategy Lead",
+    image:
+      "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=300&q=80",
+  },
+  {
+    name: "David Martinez",
+    role: "Tech Director",
+    image:
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300&q=80",
+  },
+  {
+    name: "Sophie Anderson",
+    role: "Growth Manager",
+    image:
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&q=80",
+  },
+];
