@@ -22,7 +22,7 @@
 
 ---
 
-## Features
+## Core Features
 
 - Built using **React.js** — component-based architecture, easy to maintain and extend.  
 - Styled with **Tailwind CSS** for utility-first, responsive and mobile-friendly design.  
@@ -31,10 +31,48 @@
 
 ---
 
-## Built With
+## Technologies Used
 
-| Technology | Purpose |
-|------------|---------|
-| React.js   | UI and component structure |
-| Tailwind CSS | Styling and responsive design |
-| (Optional) Vercel / GitHub Pages / any static host | Deployment |
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Lucide React](https://img.shields.io/badge/-Lucide_React-000000?style=flat-square&logo=lucide&logoColor=white)
+
+
+
+## Contributing
+
+Contributions are always welcome! Here's how you can help:
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## Author
+
+**Electra51**
+
+- **GitHub**: [@Electra51](https://github.com/Electra51)
+- **LinkedIn**: https://www.linkedin.com/in/safayet-nur/
+- **Email**: safayetnurelectra@gmail.com
+- **Portfolio**: https://nextjs-my-portfolio-electra51.vercel.app/
+- **Twitter**: https://x.com/nur_safaye51
+
+---
+
+
+## Support
+
+If you like this project, please ⭐ star this repository!
+
+---
+
+
+**Star this repository if you found it helpful!**
+### Made with ❤️ by Electra51
+Happy Coding! 🚀
+
+
