@@ -6,12 +6,14 @@ import logo3 from "../../Assets/logo/3.png";
 import SocialIcon from "../../Shared/SocialIcon";
 import Hero from "../../Components/Hero";
 import Stats from "../../Components/Stats";
+import Services from "../../Components/Services";
 
 const Home = () => {
   return (
     <div>
       <Hero />
       <Stats />
+      <Services />
       <div
         className="hero min-h-screen rounded-lg px-10"
         style={{
