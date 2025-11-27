@@ -8,6 +8,7 @@ import {
   Target,
 } from "lucide-react";
 import React from "react";
+import agency1Image from "../Assets/agency1.jpg";
 const Hero = () => {
   return (
     <section id="home" className="pt-32 pb-20 px-6">
@@ -61,7 +62,7 @@ const Hero = () => {
             <div className="absolute inset-0 bg-gradient-to-r from-cyan-400/20 to-blue-500/20 rounded-full blur-3xl"></div>
             <div className="relative">
               <img
-                src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=600&q=80"
+                src={agency1Image}
                 alt="Professional"
                 className="rounded-full w-full max-w-lg mx-auto border-8 border-cyan-500/30 shadow-2xl shadow-cyan-500/50"
               />
